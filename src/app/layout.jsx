@@ -8,7 +8,7 @@ export const metadata = {
   title: 'Go India Stocks | GIA Stocks',
   description:
     'Bringing Indian Corporates to Investors. An Investor Relations Company',
-  author: 'Vatsal Singh',
+  author: 'Shivani',
   openGraph: {
     title: 'Go India Stocks',
     description:
